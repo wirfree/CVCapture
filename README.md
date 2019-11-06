@@ -87,6 +87,11 @@ static void DrawRegions(Mat grayScale, List<RegionInfo> regions, string title = 
 ## 做个广告
 
 作者正在穷愁潦倒中，如果您有下面相关的工作或者项目可以施舍给作者的，不胜感激哦
-网站开发（前端/后端/公众号/小程序），App开发，OpenCV相关的开发，工作流，RPA系统的开发和搭建
+1. 网站开发（前端/后端/公众号/小程序）
+2. App开发
+3. OpenCV相关的开发
+4. RPA系统的开发和搭建
 
-我的邮箱：zhao_sun@hotmail.com
+关于作者的背景以及之前做过的项目，有意向的话可以详谈哦
+
+邮箱：zhao_sun@hotmail.com
