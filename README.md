@@ -6,8 +6,6 @@
 
 ## 主要模块
 
-![image](./screenshots/layout-hierarchy-level-1.png)
-
 OpenCVAppLayoutUnderstanding库通过图形学的方法对APP（桌面APP，手机APP）递归切分成不同的小块。以skype界面为例，它会先自动识别应用界面，根据最顶端的布局切分成左右两块（以蓝线标出）：
 ![image](https://rongbao.club/wp-content/uploads/2019/11/layout-hierarchy-level-1.png)
 然后，在每个子级布局中，找出它们的子节点：
